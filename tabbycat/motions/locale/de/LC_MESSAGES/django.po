@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-24 07:48+1000\n"
-"PO-Revision-Date: 2024-06-23 21:58\n"
+"PO-Revision-Date: 2025-05-12 23:02\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -23,19 +23,19 @@ msgstr "Themen"
 
 #: motions/models.py
 msgid "text"
-msgstr ""
+msgstr "Text"
 
 #: motions/models.py
 msgid "The full motion e.g., \"This House would straighten all bananas\""
-msgstr ""
+msgstr "Die volle Motion, z.B. \"Dieses Haus würde alle Bananen geradebiegen\""
 
 #: motions/models.py
 msgid "reference"
-msgstr ""
+msgstr "Referenz"
 
 #: motions/models.py
 msgid "Shortcode for the motion, e.g., \"Bananas\""
-msgstr ""
+msgstr "Kurzbezeichnung für die Motion, z.B. \"Bananen\""
 
 #: motions/models.py
 msgid "info slide"
@@ -43,7 +43,7 @@ msgstr "Infotext"
 
 #: motions/models.py
 msgid "The information slide for this topic; if it has one"
-msgstr ""
+msgstr "Das Factsheet/Infoslide für diese Motion, falls vorhanden"
 
 #: motions/models.py
 msgid "tournament"
@@ -63,11 +63,11 @@ msgstr "Themen"
 
 #: motions/models.py
 msgid "debate team"
-msgstr ""
+msgstr "Debattierteam"
 
 #: motions/models.py
 msgid "preferences"
-msgstr ""
+msgstr "Einstellungen"
 
 #: motions/models.py
 msgid "ballot submission"
