@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-24 07:48+1000\n"
-"PO-Revision-Date: 2024-06-23 21:59\n"
+"PO-Revision-Date: 2025-05-13 00:04\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: options/apps.py
 msgid "Tournament Options"
-msgstr ""
+msgstr "Turnieroptionen"
 
 #: options/forms.py
 msgid "Mininum score must be less than maximum score"
@@ -64,11 +64,11 @@ msgstr ""
 
 #: options/preferences.py
 msgid "Minimum speaker score"
-msgstr ""
+msgstr "Kleinste erlaubte Einzelpunktzahl (Speaks)"
 
 #: options/preferences.py
 msgid "Maximum speaker score"
-msgstr ""
+msgstr "Größte erlaubte Einzelpunktzahl"
 
 #: options/preferences.py
 msgid "Maximum allowed score for substantive speeches"
